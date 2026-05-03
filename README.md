@@ -10,10 +10,10 @@ Set the foundation for building meaningful sales insights and dashboards
 This project is helping me strengthen my skills in data cleaning, SQL, and end-to-end data workflows—from raw data to analysis-ready datasets.
 
 Always learning, always building. 💡
-##
-<img width="825" height="644" alt="analy_py" src="https://github.com/user-attachments/assets/c1ba8bf0-eaa5-4e5c-8b80-d8b594f73fc5" />
+
 ##cleaning code
 <img width="1048" height="626" alt="load_py" src="https://github.com/user-attachments/assets/c86f4cc9-edbb-4b02-aeca-8d66e84ec686" />
+<img width="825" height="644" alt="analy_py" src="https://github.com/user-attachments/assets/c1ba8bf0-eaa5-4e5c-8b80-d8b594f73fc5" />
 <img width="946" height="648" alt="clean_py" src="https://github.com/user-attachments/assets/8556650d-8e47-4e09-83ad-7d96cac94bb2" />
 ##load to mysql
 <img width="824" height="521" alt="py_sql" src="https://github.com/user-attachments/assets/5e814361-0462-4848-a2bf-8d3404ad5497" />
