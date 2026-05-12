@@ -1,19 +1,19 @@
-# sales_analysis_with_mysql_-_python
-I recently worked on a sales dataset where the data was quite unstructured and needed proper cleaning before analysis.
-Using Python, I cleaned a raw CSV file by handling inconsistencies and preparing it for analysis. After that, I loaded the cleaned data into MySQL to structure it properly for deeper exploration and business insights.
+# sales_analysis_with_mysql_-_python-power bi
+i recentely worked on a sales data where i used python to clean the data ,used mysql to for analysis and power bi for visualization.
 
 ##This workflow allowed me to:
 Clean and prepare real-world messy data using Python
 Structure data efficiently in MySQL for analysis
-Set the foundation for building meaningful sales insights and dashboards
+bulidt a dahboard with alot of insignts 
 
-This project is helping me strengthen my skills in data cleaning, SQL, and end-to-end data workflows—from raw data to analysis-ready datasets.
+This project is helping me strengthen my skills in data cleaning, SQL,data visualization and end-to-end data workflows—from raw data to analysis-ready datasets.
 
 Always learning, always building. 💡
 
 ##cleaning code
-<img width="1048" height="626" alt="load_py" src="https://github.com/user-attachments/assets/c86f4cc9-edbb-4b02-aeca-8d66e84ec686" />
-<img width="825" height="644" alt="analy_py" src="https://github.com/user-attachments/assets/c1ba8bf0-eaa5-4e5c-8b80-d8b594f73fc5" />
+
 <img width="946" height="648" alt="clean_py" src="https://github.com/user-attachments/assets/8556650d-8e47-4e09-83ad-7d96cac94bb2" />
-##load to mysql
-<img width="824" height="521" alt="py_sql" src="https://github.com/user-attachments/assets/5e814361-0462-4848-a2bf-8d3404ad5497" />
+
+##sales dashboard
+
+<img width="933" height="522" alt="super done" src="https://github.com/user-attachments/assets/01f6b735-0f9e-4400-a149-1ba130137db8" />
