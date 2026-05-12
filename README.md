@@ -16,4 +16,4 @@ Always learning, always building. 💡
 
 ##sales dashboard
 
-<img width="933" height="522" alt="super done" src="https://github.com/user-attachments/assets/01f6b735-0f9e-4400-a149-1ba130137db8" />
+<img width="1004" height="557" alt="super done" src="https://github.com/user-attachments/assets/0166f93c-338a-41d8-b0e8-10209fd7c6e8" />
